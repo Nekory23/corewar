@@ -1,5 +1,5 @@
 # corewar
-{EPITECH} | First year | Elementary programming in C project
+# {EPITECH} | First year | Elementary programming in C project
 
 Corewar is a game. A very special game. 
 
@@ -16,20 +16,21 @@ See the subject for further details !
 
 ========================
 
-2nd semester Elementary programming in C (part II) unit
+## 2nd semester Elementary programming in C (part II) unit
 
 Grade : C | Mark : 9
 
-Score : 62.1% (only the ASM)
+| Category          | Percentage | Tests     | Crash ? |
+|-------------------|------------|-----------|---------|
+| **ASM**           |            |           |         |
+| ASM header        | 100%       | 3/3       | x       |
+| ASM full header   | 60%        | 3/5       | x       |
+| ASM invalid cases | 97.1%      | 34/35     | x       |
+| ASM real champion | 0%         | 0/5       | x       |
+| **End score ASM** | **62.1%**  | **40/48** | **No**  |
+| **VM**            | Mark       |           |         |
+| Virtual machine   | 0/10       |           |         |
 
-   - ASM header : 100% --- 3/3
-   - ASM full header : 60% --- 3/5
-   - ASM, invalid cases : 97.1% --- 34/35
-   - ASM, real champion : 0% --- 0/5
-
-only the VM :
-   - Virtual Machine (0 / 10) 
-
-Made with Quentin TREHEUX (LuciferBahamut), Anselin BARADAT-GARGOMINY and theau BENEZET
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut)), Anselin BARADAT-GARGOMINY and theau BENEZET
 
 Beware of -42 epitech students !
